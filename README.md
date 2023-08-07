@@ -1,0 +1,1 @@
+This is a simple script to generate a CSV from a JSON, and the reverse.
